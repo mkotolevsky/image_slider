@@ -1,4 +1,5 @@
 # image_slider
-Just a beautiful slider with arrow support
+Слайдер с противоположными направлениями движения.  
+Поддержка стрелок с клавиатуры.
 
-[Open project](https://mkotolevsky.github.io/image_slider/)
+[Открыть](https://mkotolevsky.github.io/image_slider/)
